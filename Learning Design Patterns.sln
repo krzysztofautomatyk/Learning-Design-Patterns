@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Life Without Builder", "Lif
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder", "Builder\Builder.csproj", "{046E746F-0D49-ADED-C09E-82E7BB7CCBCE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fluent Builder", "Fluent Builder\Fluent Builder.csproj", "{2BD7250C-491A-4DC9-B4C8-7201B1302615}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -55,6 +57,10 @@ Global
 		{046E746F-0D49-ADED-C09E-82E7BB7CCBCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{046E746F-0D49-ADED-C09E-82E7BB7CCBCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{046E746F-0D49-ADED-C09E-82E7BB7CCBCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BD7250C-491A-4DC9-B4C8-7201B1302615}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BD7250C-491A-4DC9-B4C8-7201B1302615}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BD7250C-491A-4DC9-B4C8-7201B1302615}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BD7250C-491A-4DC9-B4C8-7201B1302615}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -67,6 +73,7 @@ Global
 		{906D20D8-8550-44AF-84B1-BD9409FC19EC} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{BADEE01A-ECC8-4D7B-8041-D47BF493A79E} = {049F6ECC-87A4-4802-8794-2149B30ABCF6}
 		{046E746F-0D49-ADED-C09E-82E7BB7CCBCE} = {049F6ECC-87A4-4802-8794-2149B30ABCF6}
+		{2BD7250C-491A-4DC9-B4C8-7201B1302615} = {049F6ECC-87A4-4802-8794-2149B30ABCF6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {0F304571-84B8-4387-8158-E2EAF159C046}
